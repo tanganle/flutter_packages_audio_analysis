@@ -1,15 +1,7 @@
 # flutter_packages_audio_analysis
 
-A new Flutter plugin project.
+一个Flutter包，使用Python来将音频数据计算出心率以及信号强度
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+示例代码 在`example`中
